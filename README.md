@@ -1,4 +1,3 @@
-# House-Prices-Prediction-with-Python
+# Data Science Competitions on Kaggle
 House Prices Prediction using TensorFlow Decision Forests
-Using dataset from Kaggle competiton
 
