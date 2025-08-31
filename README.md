@@ -10,6 +10,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 ```
+**Displaying Code Results:**
 
 ## Load dataset
 ```python
