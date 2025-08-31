@@ -33,3 +33,4 @@ print(len(test_ds))
 1022
 438
 ```
+Checking the length of train and test dataset for 70& trainning the model and 30% to test for outcome. 
