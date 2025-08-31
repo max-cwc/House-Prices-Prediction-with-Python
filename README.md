@@ -15,8 +15,10 @@ import matplotlib.pyplot as plt
 ```python
 all_ds = pd.read_csv("/kaggle/input/house-prices-advanced-regression-techniques/train.csv")
 print(all_ds.shape)
+
+(1460, 81)
 ```
-<img width="1368" height="42" alt="image" src="https://github.com/user-attachments/assets/9e843ad1-6419-4202-b887-7189c0a46f0f" />
+
 
 
 ```# Randomly split the dataset into a training (70%) and testing (30%) dataset
